@@ -1,6 +1,6 @@
 # PraatTiersExporter
 Exports hierarchical tiers (utterance, word, phone) to csv files for OurVoice DB proejct.
-Written by evyaco@gmail.com for OmiLab vereds@openu.ac.il (2022)
+Written by evyaco@gmail.com for OmiLab veredsilber@gmail.com (2022)
 
 
 Some tipps:
