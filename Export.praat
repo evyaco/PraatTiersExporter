@@ -1,4 +1,4 @@
-form 1. Export Tiers: create .csv files based on Praat tiers
+form 1. Export Tiers: create .csv files based on Praat tiers (version 1.0)
 	comment Select a sound file and its TextGrid and specify the following tier numbers in it:
 	comment Note: If there is no speakers tier, leave 0
 	integer SpeakersTier: 0
