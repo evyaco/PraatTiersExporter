@@ -1,4 +1,4 @@
-form 1. Export
+form 1. Export Tiers: create .csv files based on Praat tiers
 	comment Select a sound file and its TextGrid and specify the following tier numbers in it:
 	comment Note: If there is no speakers tier, leave 0
 	integer SpeakersTier: 0
@@ -10,7 +10,8 @@ form 1. Export
 	text sessionName: TEST
 	comment Session date (not mandatory) must be in format DD.MM.YYYY
 	text sessionDate: 08.08.2022
-	folder outputPath: C:\PraatExportedTiers\
+	comment Choose an output path (make sure it exists):
+	folder outputPath c:\PraatExportedTiers\
 endform
 
 if length(sessionName$) = 0
